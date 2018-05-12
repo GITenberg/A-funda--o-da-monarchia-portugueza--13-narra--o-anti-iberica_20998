@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8160
     wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Augusto_Teixeira_de_Vasconcelos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20998#A-funda--o-da-monarchia-portugueza--13-narra--o-anti-iberica
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2007-04-06'
 gutenberg_type: Text
