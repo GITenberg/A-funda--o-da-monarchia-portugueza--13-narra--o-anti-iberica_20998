@@ -1,0 +1,39 @@
+_repo: A-funda--o-da-monarchia-portugueza--13-narra--o-anti-iberica_20998
+_version: 0.1.0
+alternative_title: "A fundação da monarquia portuguesa\r\nnarração anti-ibérica"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vasconcelos, António Augusto Teixeira de
+    aliases:
+    - Vasconcellos, A. A. Teixeira de (Antonio Augusto Teixeira)
+    - Vasconcellos, Antonio Augusto Teixeira de
+    - Vasconcelos, Teixeira de
+    birthdate: 1816
+    deathdate: 1878
+    gutenberg_agent_id: '8160'
+    url: http://www.gutenberg.org/2009/agents/8160
+    wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Augusto_Teixeira_de_Vasconcelos
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2007-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20998'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of\
+  \ public domain material\r\nfrom the Google Print project.)"
+publication_note: "Lisboa:\r\nImprensa Nacional\r\n1860"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: "Livros para o Povo\r\nII"
+subjects:
+- !lcc 'DP'
+- !lcsh 'Portugal -- History -- To 1385'
+title: "A fundação da monarchia portugueza\r\nnarração anti-iberica"
+url: http://www.gutenberg.org/ebooks/20998
