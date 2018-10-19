@@ -37,5 +37,6 @@ series_note: "Livros para o Povo\r\nII"
 subjects:
 - !lcc 'DP'
 - !lcsh 'Portugal -- History -- To 1385'
+- GITenberg
 title: "A fundação da monarchia portugueza\r\nnarração anti-iberica"
 url: http://www.gutenberg.org/ebooks/20998
